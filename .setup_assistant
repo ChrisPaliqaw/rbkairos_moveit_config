@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/user/catkin_ws/src/rbkairos.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/rbkairos.srdf
+  CONFIG:
+    author_name: Chris Paliqaw
+    author_email: chris@qalang.com
+    generated_timestamp: 1646947448
